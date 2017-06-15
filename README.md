@@ -18,3 +18,15 @@
 
 1. [智能时代](https://book.douban.com/subject/26838557/)，by 吴军 ，2017年5月， :+1:
 1. [人类简史](https://book.douban.com/subject/25985021/)，by [以色列] 尤瓦尔·赫拉利 ，2016年
+
+
+
+
+
+
+
+
+
+
+> 需要资源请关注我的公众号：纯洁的微笑
+![](http://www.ityouknow.com/assets/images/keeppuresmile.jpg)
