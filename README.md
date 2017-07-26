@@ -37,6 +37,7 @@
 1. [Spring揭秘](https://book.douban.com/subject/3897837/)  ，by 王福强 ，2014年， :+1:  
 1. [重构](https://book.douban.com/subject/4262627/) ，by [美] Martin Fowler  ，2015年， :+1:  
 1. [研磨设计模式](https://book.douban.com/subject/5343318/) ，陈臣 / 王斌  ，2015年， :+1:  
+1. [hadoop 权威指南](https://book.douban.com/subject/23066032/) ，美] 埃尔温·布鲁克斯·怀特   ，2017年7月， :+1: :+1:  
 
 
 
